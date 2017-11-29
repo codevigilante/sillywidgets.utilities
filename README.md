@@ -16,5 +16,4 @@ Include in your `.csproj` file:
 
 # todo
 
-* v0.4
-* ???
+* v0.5
